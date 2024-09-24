@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../k"
+		},
+		{
+			"path": "../ermm"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "k"
+	}
+}
